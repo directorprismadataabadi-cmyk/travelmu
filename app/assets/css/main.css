@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+/* Custom Coral Colors */
+.text-coral-400 { color: #ff7b7b; }
+.text-coral-500 { color: #FF5A5F; }
+.text-coral-600 { color: #e04e52; }
+.bg-coral-50 { background-color: #fff5f5; }
+.bg-coral-500 { background-color: #FF5A5F; }
+.bg-coral-600 { background-color: #e04e52; }
+.from-coral-400 { --tw-gradient-from: #ff7b7b; }
+.from-coral-500 { --tw-gradient-from: #FF5A5F; }
+.from-coral-600 { --tw-gradient-from: #e04e52; }
+.to-coral-600 { --tw-gradient-to: #e04e52; }
+.hover\:text-coral-400:hover { color: #ff7b7b; }
+.hover\:text-coral-600:hover { color: #e04e52; }
+.hover\:bg-coral-50:hover { background-color: #fff5f5; }
+.hover\:bg-coral-500:hover { background-color: #FF5A5F; }
+.hover\:bg-coral-600:hover { background-color: #e04e52; }
+.border-coral-500 { border-color: #FF5A5F; }
+.focus\:border-coral-500:focus { border-color: #FF5A5F; }
+.focus\:ring-coral-500:focus { --tw-ring-color: #FF5A5F; }
+.focus\:ring-coral-500\/20:focus { --tw-ring-color: rgba(255, 90, 95, 0.2); }
+.shadow-coral-500\/30 { --tw-shadow-color: rgba(255, 90, 95, 0.3); }
+.shadow-coral-500\/40 { --tw-shadow-color: rgba(255, 90, 95, 0.4); }
+.accent-coral-500 { accent-color: #FF5A5F; }
+
+/* Custom Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes float-delayed {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float-delayed 8s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+/* Base Styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

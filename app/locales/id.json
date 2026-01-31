@@ -1,0 +1,153 @@
+{
+    "app": {
+        "name": "TravelMu"
+    },
+    "nav": {
+        "flights": "Penerbangan",
+        "hotels": "Hotel",
+        "experiences": "Pengalaman",
+        "rentals": "Sewa Mobil",
+        "packages": "Paket Wisata",
+        "login": "Masuk",
+        "signup": "Daftar",
+        "logout": "Keluar"
+    },
+    "hero": {
+        "title": "Temukan Surga di",
+        "titleHighlight": "Indonesia",
+        "subtitle": "Pesan penerbangan, hotel, dan pengalaman unik di 17.000+ pulau. Petualanganmu dimulai di sini."
+    },
+    "search": {
+        "from": "Dari",
+        "to": "Ke",
+        "destination": "Tujuan",
+        "date": "Tanggal",
+        "checkIn": "Check-in",
+        "checkOut": "Check-out",
+        "departure": "Keberangkatan",
+        "return": "Kepulangan",
+        "passengers": "Penumpang",
+        "rooms": "Kamar",
+        "guests": "Tamu",
+        "search": "Cari",
+        "searching": "Mencari...",
+        "explore": "Jelajahi"
+    },
+    "tripType": {
+        "oneway": "Sekali Jalan",
+        "roundtrip": "Pulang-Pergi",
+        "multicity": "Multi-kota"
+    },
+    "cabinClass": {
+        "economy": "Ekonomi",
+        "premium": "Premium Ekonomi",
+        "business": "Bisnis",
+        "first": "First Class"
+    },
+    "stats": {
+        "destinations": "Destinasi",
+        "hotels": "Hotel",
+        "airlines": "Maskapai",
+        "travelers": "Pelancong Bahagia"
+    },
+    "deals": {
+        "title": "Penawaran Kilat",
+        "subtitle": "Penawaran terbatas yang tidak ingin kamu lewatkan",
+        "viewAll": "Lihat Semua"
+    },
+    "destinations": {
+        "title": "Destinasi Populer",
+        "subtitle": "Jelajahi tempat-tempat menakjubkan di seluruh kepulauan Indonesia yang indah",
+        "startingFrom": "Mulai dari"
+    },
+    "categories": {
+        "title": "Perjalanan Gayamu",
+        "subtitle": "Pilih gaya petualanganmu",
+        "beach": "Pantai",
+        "mountain": "Gunung",
+        "city": "Kota",
+        "adventure": "Petualangan",
+        "wellness": "Kesehatan",
+        "culture": "Budaya"
+    },
+    "reviews": {
+        "title": "Kata Para Pelancong",
+        "subtitle": "Pengalaman nyata dari pelanggan bahagia kami"
+    },
+    "newsletter": {
+        "title": "Dapatkan Penawaran Eksklusif",
+        "subtitle": "Berlangganan newsletter kami dan jangan lewatkan penawaran perjalanan",
+        "placeholder": "Masukkan emailmu",
+        "subscribe": "Berlangganan"
+    },
+    "footer": {
+        "brand": "Partner perjalanan terpercaya untuk menjelajahi Indonesia dan dunia. Pesan penerbangan, hotel, dan pengalaman dengan percaya diri.",
+        "destinations": "Destinasi Populer",
+        "products": "Produk",
+        "company": "Perusahaan",
+        "support": "Dukungan",
+        "aboutUs": "Tentang Kami",
+        "careers": "Karir",
+        "press": "Pers",
+        "blog": "Blog",
+        "contact": "Kontak",
+        "helpCenter": "Pusat Bantuan",
+        "safetyInfo": "Info Keamanan",
+        "cancellation": "Pembatalan",
+        "reportIssue": "Laporkan Masalah",
+        "paymentPartners": "Mitra Pembayaran",
+        "privacyPolicy": "Kebijakan Privasi",
+        "termsOfService": "Syarat dan Ketentuan",
+        "cookies": "Cookies",
+        "copyright": "Hak cipta dilindungi."
+    },
+    "auth": {
+        "login": "Masuk",
+        "loginTitle": "Masuk ke akunmu",
+        "loginSubtitle": "Belum punya akun?",
+        "signup": "Daftar",
+        "signupTitle": "Buat akunmu",
+        "signupSubtitle": "Sudah punya akun?",
+        "email": "Alamat Email",
+        "password": "Kata Sandi",
+        "confirmPassword": "Konfirmasi Kata Sandi",
+        "fullname": "Nama Lengkap",
+        "phone": "Nomor Telepon",
+        "rememberMe": "Ingat saya",
+        "forgotPassword": "Lupa kata sandi?",
+        "orContinueWith": "Atau lanjutkan dengan",
+        "termsAgreement": "Dengan masuk, kamu menyetujui",
+        "and": "dan",
+        "welcomeBack": "Selamat Datang Kembali, Pelancong!",
+        "welcomeSubtitle": "Masuk untuk melanjutkan perjalananmu dan akses penawaran eksklusif",
+        "joinCommunity": "Bergabung dengan komunitas kami"
+    },
+    "common": {
+        "loading": "Memuat...",
+        "error": "Terjadi kesalahan",
+        "retry": "Coba Lagi",
+        "cancel": "Batal",
+        "confirm": "Konfirmasi",
+        "save": "Simpan",
+        "close": "Tutup",
+        "select": "Pilih",
+        "perPerson": "/orang"
+    },
+    "flights": {
+        "title": "Cari Penerbangan",
+        "subtitle": "Temukan penawaran terbaik untuk penerbangan ke destinasi manapun",
+        "filters": "Filter",
+        "stops": "Pemberhentian",
+        "nonStop": "Langsung",
+        "oneStop": "1 Transit",
+        "multiStop": "2+ Transit",
+        "airlines": "Maskapai",
+        "maxPrice": "Harga Maks",
+        "sortBy": "Urutkan",
+        "lowestPrice": "Harga Terendah",
+        "shortestDuration": "Durasi Terpendek",
+        "earliestDeparture": "Keberangkatan Terawal",
+        "flightsFound": "penerbangan ditemukan",
+        "direct": "Langsung"
+    }
+}

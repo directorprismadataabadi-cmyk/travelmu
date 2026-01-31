@@ -1,0 +1,153 @@
+{
+    "app": {
+        "name": "TravelMu"
+    },
+    "nav": {
+        "flights": "Flights",
+        "hotels": "Hotels",
+        "experiences": "Experiences",
+        "rentals": "Rentals",
+        "packages": "Packages",
+        "login": "Log in",
+        "signup": "Sign up",
+        "logout": "Log out"
+    },
+    "hero": {
+        "title": "Discover Paradise in",
+        "titleHighlight": "Indonesia",
+        "subtitle": "Book flights, hotels, and unique experiences across 17,000+ islands. Your adventure starts here."
+    },
+    "search": {
+        "from": "From",
+        "to": "To",
+        "destination": "Destination",
+        "date": "Date",
+        "checkIn": "Check-in",
+        "checkOut": "Check-out",
+        "departure": "Departure",
+        "return": "Return",
+        "passengers": "Passengers",
+        "rooms": "Rooms",
+        "guests": "Guests",
+        "search": "Search",
+        "searching": "Searching...",
+        "explore": "Explore"
+    },
+    "tripType": {
+        "oneway": "One-way",
+        "roundtrip": "Round-trip",
+        "multicity": "Multi-city"
+    },
+    "cabinClass": {
+        "economy": "Economy",
+        "premium": "Premium Economy",
+        "business": "Business",
+        "first": "First Class"
+    },
+    "stats": {
+        "destinations": "Destinations",
+        "hotels": "Hotels",
+        "airlines": "Airlines",
+        "travelers": "Happy Travelers"
+    },
+    "deals": {
+        "title": "Flash Deals",
+        "subtitle": "Limited time offers you don't want to miss",
+        "viewAll": "View All"
+    },
+    "destinations": {
+        "title": "Popular Destinations",
+        "subtitle": "Explore the most stunning places across Indonesia's beautiful archipelago",
+        "startingFrom": "Starting from"
+    },
+    "categories": {
+        "title": "Travel Your Way",
+        "subtitle": "Choose your adventure style",
+        "beach": "Beach",
+        "mountain": "Mountain",
+        "city": "City",
+        "adventure": "Adventure",
+        "wellness": "Wellness",
+        "culture": "Culture"
+    },
+    "reviews": {
+        "title": "What Travelers Say",
+        "subtitle": "Real experiences from our happy customers"
+    },
+    "newsletter": {
+        "title": "Get Exclusive Deals",
+        "subtitle": "Subscribe to our newsletter and never miss a travel deal",
+        "placeholder": "Enter your email",
+        "subscribe": "Subscribe"
+    },
+    "footer": {
+        "brand": "Your trusted travel partner for discovering Indonesia and beyond. Book flights, hotels, and experiences with confidence.",
+        "destinations": "Top Destinations",
+        "products": "Products",
+        "company": "Company",
+        "support": "Support",
+        "aboutUs": "About Us",
+        "careers": "Careers",
+        "press": "Press",
+        "blog": "Blog",
+        "contact": "Contact",
+        "helpCenter": "Help Center",
+        "safetyInfo": "Safety Info",
+        "cancellation": "Cancellation",
+        "reportIssue": "Report Issue",
+        "paymentPartners": "Payment Partners",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "cookies": "Cookies",
+        "copyright": "All rights reserved."
+    },
+    "auth": {
+        "login": "Log in",
+        "loginTitle": "Log in to your account",
+        "loginSubtitle": "Don't have an account?",
+        "signup": "Sign up",
+        "signupTitle": "Create your account",
+        "signupSubtitle": "Already have an account?",
+        "email": "Email address",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "fullname": "Full Name",
+        "phone": "Phone Number",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot password?",
+        "orContinueWith": "Or continue with",
+        "termsAgreement": "By logging in, you agree to our",
+        "and": "and",
+        "welcomeBack": "Welcome Back, Traveler!",
+        "welcomeSubtitle": "Log in to continue your journey and access exclusive deals",
+        "joinCommunity": "Join our community"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "retry": "Retry",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "save": "Save",
+        "close": "Close",
+        "select": "Select",
+        "perPerson": "/person"
+    },
+    "flights": {
+        "title": "Search Flights",
+        "subtitle": "Find the best deals on flights to any destination",
+        "filters": "Filters",
+        "stops": "Stops",
+        "nonStop": "Non-stop",
+        "oneStop": "1 Stop",
+        "multiStop": "2+ Stops",
+        "airlines": "Airlines",
+        "maxPrice": "Max Price",
+        "sortBy": "Sort by",
+        "lowestPrice": "Lowest Price",
+        "shortestDuration": "Shortest Duration",
+        "earliestDeparture": "Earliest Departure",
+        "flightsFound": "flights found",
+        "direct": "Direct"
+    }
+}
