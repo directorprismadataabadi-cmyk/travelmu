@@ -1,0 +1,153 @@
+{
+    "app": {
+        "name": "TravelMu"
+    },
+    "nav": {
+        "flights": "机票",
+        "hotels": "酒店",
+        "experiences": "体验",
+        "rentals": "租车",
+        "packages": "套餐",
+        "login": "登录",
+        "signup": "注册",
+        "logout": "注销"
+    },
+    "hero": {
+        "title": "探索天堂",
+        "titleHighlight": "印度尼西亚",
+        "subtitle": "预订 17,000 多个岛屿的航班、酒店和独特体验。您的冒险从这里开始。"
+    },
+    "search": {
+        "from": "从",
+        "to": "到",
+        "destination": "目的地",
+        "date": "日期",
+        "checkIn": "入住",
+        "checkOut": "退房",
+        "departure": "出发",
+        "return": "返回",
+        "passengers": "乘客",
+        "rooms": "房间",
+        "guests": "客人",
+        "search": "搜索",
+        "searching": "搜索中...",
+        "explore": "探索"
+    },
+    "tripType": {
+        "oneway": "单程",
+        "roundtrip": "往返",
+        "multicity": "多城市"
+    },
+    "cabinClass": {
+        "economy": "经济舱",
+        "premium": "超级经济舱",
+        "business": "商务舱",
+        "first": "头等舱"
+    },
+    "stats": {
+        "destinations": "个目的地",
+        "hotels": "家酒店",
+        "airlines": "家航空公司",
+        "travelers": "位快乐旅客"
+    },
+    "deals": {
+        "title": "限时特惠",
+        "subtitle": "您不想错过的限时优惠",
+        "viewAll": "查看全部"
+    },
+    "destinations": {
+        "title": "热门目的地",
+        "subtitle": "探索印度尼西亚美丽群岛中最迷人的地方",
+        "startingFrom": "起价"
+    },
+    "categories": {
+        "title": "随心所欲的旅行",
+        "subtitle": "选择您的冒险风格",
+        "beach": "海滩",
+        "mountain": "山脉",
+        "city": "城市",
+        "adventure": "冒险",
+        "wellness": "健康",
+        "culture": "文化"
+    },
+    "reviews": {
+        "title": "旅客心声",
+        "subtitle": "来自我们满意客户的真实体验"
+    },
+    "newsletter": {
+        "title": "获取独家优惠",
+        "subtitle": "订阅我们的通讯，不再错过任何旅行优惠",
+        "placeholder": "输入您的电子邮件",
+        "subscribe": "订阅"
+    },
+    "footer": {
+        "brand": "您探索印度尼西亚及其他地区的值得信赖的旅行合作伙伴。放心预订航班、酒店和体验。",
+        "destinations": "热门目的地",
+        "products": "产品",
+        "company": "公司",
+        "support": "支持",
+        "aboutUs": "关于我们",
+        "careers": "职业",
+        "press": "新闻",
+        "blog": "博客",
+        "contact": "联系我们",
+        "helpCenter": "帮助中心",
+        "safetyInfo": "安全信息",
+        "cancellation": "取消政策",
+        "reportIssue": "报告问题",
+        "paymentPartners": "支付合作伙伴",
+        "privacyPolicy": "隐私政策",
+        "termsOfService": "服务条款",
+        "cookies": "Cookies",
+        "copyright": "版权所有。"
+    },
+    "auth": {
+        "login": "登录",
+        "loginTitle": "登录您的帐户",
+        "loginSubtitle": "还没有帐户？",
+        "signup": "注册",
+        "signupTitle": "创建您的帐户",
+        "signupSubtitle": "已有帐户？",
+        "email": "电子邮件地址",
+        "password": "密码",
+        "confirmPassword": "确认密码",
+        "fullname": "全名",
+        "phone": "电话号码",
+        "rememberMe": "记住我",
+        "forgotPassword": "忘记密码？",
+        "orContinueWith": "或通过以下方式继续",
+        "termsAgreement": "登录即表示您同意我们的",
+        "and": "和",
+        "welcomeBack": "欢迎回来，旅行者！",
+        "welcomeSubtitle": "登录以继续您的旅程并获取独家优惠",
+        "joinCommunity": "加入我们的社区"
+    },
+    "common": {
+        "loading": "加载中...",
+        "error": "发生错误",
+        "retry": "重试",
+        "cancel": "取消",
+        "confirm": "确认",
+        "save": "保存",
+        "close": "关闭",
+        "select": "选择",
+        "perPerson": "/人"
+    },
+    "flights": {
+        "title": "搜索航班",
+        "subtitle": "查找前往任何目的地的最佳航班优惠",
+        "filters": "筛选",
+        "stops": "经停",
+        "nonStop": "直飞",
+        "oneStop": "1 次经停",
+        "multiStop": "2 次或更多经停",
+        "airlines": "航空公司",
+        "maxPrice": "最高价格",
+        "sortBy": "排序方式",
+        "lowestPrice": "最低价格",
+        "shortestDuration": "最短时长",
+        "earliestDeparture": "最早出发",
+        "flightsFound": "个航班已找到",
+        "direct": "直飞"
+    }
+}
